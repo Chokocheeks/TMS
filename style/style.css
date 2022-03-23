@@ -1,0 +1,62 @@
+@import '_reset';
+
+.header {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 57px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    color: #212121;
+    padding-bottom: 25px;
+}
+
+hr {
+    align-items: center;
+    width: 64px;
+    border: 1px solid #E72424;
+    
+}
+
+.text-small {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+span {
+    color: #86878B;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style-type: none;
+}
+
+li {
+    width: 33%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+.icon {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #E72424;
+    border-radius: 50%;
+}
+
+h2 {
+    color: #333333;
+    margin-bottom: 16px;
+}
